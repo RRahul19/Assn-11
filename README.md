@@ -10,3 +10,7 @@ titanic = pd.read_csv(url)
 Charts to plot:
 1. Create a pie chart presenting the male/female proportion
 2. Create a scatterplot with the Fare paid and the Age, differ the plot color by gender
+
+
+#Learning Git
+    
